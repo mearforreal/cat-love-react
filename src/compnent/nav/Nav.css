@@ -1,0 +1,21 @@
+.navbar__wrapper {
+  background-color: rgba(247, 124, 80, 1);
+}
+
+.nav_link {
+  color: #fff;
+  padding: 7px;
+  text-decoration: none;
+}
+
+.nav__container {
+  padding: 10px 0px;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  font: 18px sans-serif;
+}
+
+.active {
+  background-color: rgba(0, 0, 0, 0.2);
+}

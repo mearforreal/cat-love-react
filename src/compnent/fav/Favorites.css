@@ -1,0 +1,18 @@
+.favorites_wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  margin-top: 4rem;
+  display: grid;
+  place-items: center;
+}
+
+.faorites__container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.5em;
+}
+
+.faorites__container img {
+  height: 300px;
+  width: 250px;
+}
